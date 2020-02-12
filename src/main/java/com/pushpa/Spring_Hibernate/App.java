@@ -31,6 +31,5 @@ public class App
         as = (Alien) s.get(Alien.class, 1);
         t.commit();
         System.out.println(as);
-	System.out.println(as);
-    }
+	   }
 }
